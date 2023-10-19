@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+
+
+
+
+#DivGeral{
+    width: 70%;
+    height: 900px;
+}
+#Nome{
+    color: rgb(177, 144, 22);
+    font-size: 96px;
+    position: relative;
+    left: 130px;
+    top: 176px;
+    width: 900px;
+}
+#DivLogo{
+    width: 1px;
+    width: 18px;
+}
+#Logo{
+    width: 63px;
+    height: 56px;
+    position: relative;
+    left: 96px;
+    top: 240px;
+}
+#UiCurriculos{
+    color: rgb(177, 144, 22);
+    width: 800px;
+    position: relative;
+    top: 180px;
+    left: 160px;
+    font-size: 32px;
+}
+#Mensagem{
+    color: rgb(193, 191, 191);
+    font-size: 26px;
+    position: relative;
+    left: 110px;
+    top: 200px;
+}
+#DivImagem{
+    margin-left: 1602px;
+    margin-top: -470px;
+}
+#Imagem{
+    position: relative;
+    top: 46px;
+}
+a{
+    text-decoration: none;
+    color: rgb(177, 144, 22);
+}
+#siteprojeto{
+    color: rgb(193, 191, 191);
+}
+
+#siteprojeto:hover{
+    cursor: pointer;
+    color: rgb(177, 144, 22);
+}
+#DivEdnaldoPereira:hover{
+    cursor: pointer;
+    color: rgb(193, 191, 191);
+}

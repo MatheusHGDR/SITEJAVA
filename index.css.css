@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+body{
+    background-color: black;
+}
+#body1{
+    height: 100px;
+}
+
+
+
+#DivGeral{
+    width: 70%;
+    height: 900px;
+}
+#Nome{
+    color: rgb(177, 144, 22);
+    font-size: 96px;
+    position: relative;
+    left: 130px;
+    top: 176px;
+    width: 900px;
+}
+#DivLogo{
+    width: 1px;
+    width: 18px;
+}
+#Logo{
+    width: 63px;
+    height: 56px;
+    position: relative;
+    left: 96px;
+    top: 240px;
+}
+#UiCurriculos{
+    color: rgb(177, 144, 22);
+    width: 300px;
+    position: relative;
+    top: 180px;
+    left: 160px;
+    font-size: 32px;
+}
+#Mensagem{
+    color: rgb(193, 191, 191);
+    font-size: 26px;
+    position: relative;
+    left: 110px;
+    top: 200px;
+}
+#DivImagem{
+    margin-left: 1602px;
+    margin-top: -431px;
+}
+a{
+    text-decoration: none;
+    color: rgb(177, 144, 22);
+}
+#linha1{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    position: relative;
+    width: 700px;
+    height: 50px;
+}
+#linha2{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 10px;
+}
+#linha3{
+    display: flex;
+    justify-content: space-between;
+    background-color: crimson;
+    position: relative;
+    width: 700px;
+    height: 50px;
+    top: 20px;
+}
+#DivGeral2{
+    position: relative;
+    width: 700px;
+    top: -200px;
+    left: 110px;
+    color: rgb(177, 144, 22);
+}
+#DivSobre{
+    width: 100%;
+    background-color: black;   
+}
+#BtnSobre{
+    border: solid 3px rgb(177, 144, 22);
+    width: 96%;
+    height: 100%;
+    background-color: black;   
+    color: white;
+}
+#DivExperiencias{
+    width: 100%;
+    background-color: black;  
+}
+#BtnExperiencias{
+    border: solid 3px rgb(177, 144, 22);
+    width: 96%;
+    height: 100%;
+    background-color: black; 
+    color: white;
+}
+#DivContratar{
+    width: 100%;
+    background-color: black;  
+}
+#BtnContratar{
+    border: solid 3px rgb(177, 144, 22);
+    width: 96%;
+    height: 100%;
+    background-color: black; 
+    color: white;
+}
+#DivProjetos{
+    width: 100%;
+    background-color: black;  
+}
+#BtnProjetos{
+    border: solid 3px rgb(177, 144, 22);
+    width: 96%;
+    height: 100%;
+    background-color: black; 
+    color: white;
+}
+#DivContrate{
+    width: 100%;
+    background-color: black;  
+}
+#BtnContrate{
+    border: solid 3px rgb(177, 144, 22);
+    width: 98%;
+    height: 100%;
+    background-color: rgb(177, 144, 22); 
+    color: white;
+}
+
+#DivEdnaldoPereira:hover{
+    cursor: pointer;
+    color: rgb(193, 191, 191);
+}
+
+.typewrite{
+    color: rgb(177, 144, 22);
+    font-size: 96px;
+    position: relative;
+    left: 130px;
+    top: 176px;
+    width: 900px;
+}
+}
+.typewrite:hover{
+    cursor: pointer;
+    color: rgb(193, 191, 191)
+}
